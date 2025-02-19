@@ -10,8 +10,8 @@
 
 //bounded sprites 4 collision and customizable interaction
 
-//morw feature[4] = {one .cs file, keyboard input, rectangled background, will rizz your fine shi}
+//more feature[4] = {one .cs file, keyboard input, rectangled background, will rizz your fine shi}
 
-//if you decompile/convert the xnbs, pls do credit my art below
+//if you decompile/convert the xnbs, pls do credit me below
 
 //credit to github.com/sasorinodana <3
