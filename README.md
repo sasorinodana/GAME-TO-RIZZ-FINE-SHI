@@ -8,10 +8,10 @@
 
 //deletable rectangle to customize background
 
-//bounded sprites
+//bounded sprites 4 collision and customizable interaction
 
-//feature[2] = {one .cs file, keyboard input, rectangled background, will rizz your fine shi}
+//morw feature[4] = {one .cs file, keyboard input, rectangled background, will rizz your fine shi}
 
-//if you decompile/convert the xnbs, pls give me credit below
+//if you decompile/convert the xnbs, pls do credit my art below
 
 //credit to github.com/sasorinodana <3
