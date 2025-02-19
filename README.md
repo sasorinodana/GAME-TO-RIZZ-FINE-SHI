@@ -6,8 +6,6 @@
 
 //Modify dialog Arrays for more dialogs
 
-//FEATURE feature[2];
-feature[0] = ONE .CS FILE
-feature [1] = will rizz your fine shi
+//feature[2] = {one .cs file, will rizz your fine shi}
 
 //credit to github.com/sasorinodana <3
