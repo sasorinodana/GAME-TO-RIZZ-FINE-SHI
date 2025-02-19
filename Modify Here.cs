@@ -1,4 +1,4 @@
-﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
@@ -32,7 +32,7 @@ namespace RizzerProgram
         private float _dialogCooldown = 0.3f; 
         private float _dialogTimer = 0f; 
 
-        //others..i guess
+        
         private float _speed = 150f;        
         private int _currentDownFrame = 0;
         private int _currentUpFrame = 0;
