@@ -3,8 +3,11 @@
 
 
 //Customizable game to rizz your fine shi. Supposwed to be programmed to rizz my ex back (didn't work), but whatever <3
+
 //Modify dialog Arrays for more dialogs
+
 //FEATURE feature[2];
 feature[0] = ONE .CS FILE
 feature [1] = will rizz your fine shi
-//credit to me <3
+
+//credit to github.com/sasorinodana <3
