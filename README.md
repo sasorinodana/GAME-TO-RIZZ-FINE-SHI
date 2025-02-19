@@ -2,11 +2,15 @@
 <img width="575" alt="Screenshot 2025-02-19 092840" src="https://github.com/user-attachments/assets/be1f4e15-5db4-412a-b4cb-e6f844cf125c" />
 
 
-//customizable game to rizz your fine shi. Was programmed to rizz my ex back (didn't work), but whatever <3
+//customizable game to rizz your fine shi. Was programmed to rizz my ex back (didn't work)
 
 //modify dialog arrays for more text
 
-//feature[2] = {one .cs file, will rizz your fine shi}
+//deletable rectangle to customize background
+
+//bounded sprites
+
+//feature[2] = {one .cs file, keyboard input, rectangled background, will rizz your fine shi}
 
 //if you decompile/convert the xnbs, pls give me credit below
 
